@@ -1,0 +1,20 @@
+body {
+    margin: 0; 
+}
+#box {
+
+    position: absolute; 
+    color: #FFF;
+    font-size: 24px;
+    transition: ease-out 1s; 
+}
+#rbox {
+    border-radius: 50%;
+    position: absolute; 
+    width: 50px; 
+    height: 50px;
+    background-color: #FFF; 
+    color: #000; 
+    text-align: center;
+    font-size: 36px; 
+}
